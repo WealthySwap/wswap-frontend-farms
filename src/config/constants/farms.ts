@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'VIKING-BUSD LP',
+    lpSymbol: 'WSWAP-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43',
@@ -21,7 +21,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'VIKING-BNB LP',
+    lpSymbol: 'WSWAP-BNB LP',
     lpAddresses: {
       97: '',
       56: '0xc79173e5f6501d7c1ab2f4e7544b13fc6562ce6a',

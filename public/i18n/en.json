@@ -123,7 +123,7 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn VIKING"
+        "text": "Stake LP tokens to earn WSWAP"
       }
     },
     {
@@ -645,25 +645,25 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Viking Stats"
+        "text": "WAWSP Stats"
       }
     },
     {
       "data": {
         "stringId": 536,
-        "text": "Total VIKING Supply"
+        "text": "Total WAWSP Supply"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "Total VIKING Burned"
+        "text": "Total WAWSP Burned"
       }
     },
     {
       "data": {
         "stringId": 540,
-        "text": "New VIKING\/block"
+        "text": "New WAWSP\/block"
       }
     },
     {
@@ -675,13 +675,13 @@
     {
       "data": {
         "stringId": 544,
-        "text": "VIKING to Harvest"
+        "text": "WAWSP to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "VIKING in Wallet"
+        "text": "WAWSP in Wallet"
       }
     },
     {
@@ -753,13 +753,13 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Viking Swap"
+        "text": "WSWAP Swap"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Yield farms for the warriors of Valhalla on BSC!"
+        "text": "High Yielding Defi Platform Focused on Personal Finance"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback VIKING"
+        "text": "Deposit Fee will be used to buyback WSWAP"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn VIKING"
+        "text": "Stake tokens to earn WSWAP"
       }
     },
     {
